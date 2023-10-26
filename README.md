@@ -5,7 +5,7 @@ Clone the Repository:
   Open a terminal or command prompt.
   Navigate to the folder where you want to clone the repository using the cd command.
   Run the clone command:
-  git clone https://github.com/username/repository.git
+  git clone {link of repository}
 
 
 Commit Changes
