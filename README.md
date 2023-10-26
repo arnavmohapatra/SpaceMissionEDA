@@ -24,9 +24,9 @@ Push Changes:
     git push origin main
 
 Merge:
-  git checkout main
-  git fetch origin
-  git merge origin/feature_branch
-  git add .
-  git commit
+  git checkout main ->
+  git fetch origin ->
+  git merge origin/feature_branch ->
+  git add . ->
+  git commit ->
   git push origin main
